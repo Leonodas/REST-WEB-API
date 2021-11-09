@@ -1,0 +1,33 @@
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\bin\Debug\net5.0\appsettings.json
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\bin\Debug\net5.0\REST Web API ELO.exe
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\bin\Debug\net5.0\REST Web API ELO.deps.json
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\bin\Debug\net5.0\REST Web API ELO.runtimeconfig.json
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\bin\Debug\net5.0\REST Web API ELO.runtimeconfig.dev.json
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\bin\Debug\net5.0\REST Web API ELO.dll
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\bin\Debug\net5.0\ref\REST Web API ELO.dll
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\bin\Debug\net5.0\REST Web API ELO.pdb
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\bin\Debug\net5.0\RestSharp.dll
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\obj\Debug\net5.0\REST Web API ELO.csproj.AssemblyReference.cache
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\obj\Debug\net5.0\REST Web API ELO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\obj\Debug\net5.0\REST Web API ELO.AssemblyInfoInputs.cache
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\obj\Debug\net5.0\REST Web API ELO.AssemblyInfo.cs
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\obj\Debug\net5.0\REST Web API ELO.csproj.CoreCompileInputs.cache
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\obj\Debug\net5.0\REST Web API ELO.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\obj\Debug\net5.0\REST Web API ELO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\obj\Debug\net5.0\staticwebassets\REST Web API ELO.StaticWebAssets.Manifest.cache
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\obj\Debug\net5.0\staticwebassets\REST Web API ELO.StaticWebAssets.xml
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\obj\Debug\net5.0\scopedcss\bundle\REST Web API ELO.styles.css
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\obj\Debug\net5.0\REST Web API ELO.RazorTargetAssemblyInfo.cache
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\obj\Debug\net5.0\REST Web API ELO.dll
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\obj\Debug\net5.0\ref\REST Web API ELO.dll
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\obj\Debug\net5.0\REST Web API ELO.pdb
+C:\Users\l.hürter\source\repos\REST Web API ELO\REST Web API ELO\obj\Debug\net5.0\REST Web API ELO.genruntimeconfig.cache
+C:\Users\User\Desktop\Bewerbung\Nindo\Projekt 2 Rest API\REST Web API ELO\obj\Debug\net5.0\REST Web API ELO.dll
+C:\Users\User\Desktop\Bewerbung\Nindo\Projekt 2 Rest API\REST Web API ELO\obj\Debug\net5.0\ref\REST Web API ELO.dll
+C:\Users\User\Desktop\Bewerbung\Nindo\Projekt 2 Rest API\REST Web API ELO\obj\Debug\net5.0\REST Web API ELO.pdb
